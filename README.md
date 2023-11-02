@@ -40,4 +40,4 @@ Join us today and embark on a rewarding journey to become a chess grandmaster. Y
 
 ---
 
-Feel free to use and customize this project description to match the specific features and objectives of your chess coaching website.
+
